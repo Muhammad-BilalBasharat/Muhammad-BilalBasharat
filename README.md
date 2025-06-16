@@ -38,16 +38,16 @@
 
 Here are a few projects I've worked on:
 - 🛒 [E-commerce App built with MERN](#)
-- 🌐 [Next.js Landing Page with Tailwind](#)
+- 🌐 [Next.js Landing Page with Tailwind](https://muhammadbilalbasharat.netlify.app/)
 - 📘 [Blog Platform (MERN + Markdown)](#)
 
 ---
 
 📫 **Let's Connect!**
 
-[![LinkedIn]()
-[![Portfolio](https://muhammadbilalbasharat.netlify.app/)
-[![Gmail](mohammadbilalbasharat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadbilalbasharat.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohammadbilalbasharat@gmail.com)
 
 ---
 
